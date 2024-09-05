@@ -9,3 +9,4 @@ This plugin can display an achievement popup in the bottom right corner of the u
 ## Idea for achievements (reference qygh's wechat push)
 
 - "One in a hundred": Missed out on a course that was over-enrolled by just one person
+- More...
